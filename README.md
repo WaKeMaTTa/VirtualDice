@@ -8,4 +8,6 @@
 
 ![Success][tick] Re-roll without refreshing the page.
 
+**[See it in action!](http://wakematta.github.io/VirtualDice/ "See it in action!")**
+
 [tick]: images/success.png  "Success! =)"
